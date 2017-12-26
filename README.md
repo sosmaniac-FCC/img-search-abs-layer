@@ -1,2 +1,7 @@
-# img-search-abs-layer
-Search images using the search parameter and query string both located in the URL. Bing image search api.
+Searching for the things!
+
+Coded by John G
+
+MIT license
+
+Microsoft Azure Search API
